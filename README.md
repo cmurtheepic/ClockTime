@@ -4,14 +4,17 @@ A simple Clock App for android devices
 Developed using Android Studio as the IDE.
 
 -----------------------------------------------------------------------------------------------------------------------------
-Anyone caught selling, distributing, renting any part of this Application that 
+Anyone caught selling, distributing, renting any part of this Application that : 
+
 a) Pretains to the function of the Application.
 b) Is any part of the applications source code.
 c) Is any part of the proprietary source code, and or imagery, and or APKs, and or any assets, and or project files.
+
 Without the written and well Documented consent from, The Seller (and/or) The Distributer(and/or) The Lease Issuer (and/or)
 The Developer. And that these entity(s) have Documents; in written agreement or other means of formal law protected means. 
 
 If a Entity or Individual is caught selling, distributing, renting any part of this Application without consent / approval from the Owner(s), Then that person or entity, In question might be subject to any or all of the following : 
+
 a) Civil lawsuit
 b) Criminal (and/or) Federal charges
 
