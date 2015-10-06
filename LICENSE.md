@@ -52,7 +52,7 @@ a) Education Purposes
       * rightful Owner(s), with written consent (and/or) other means of documentation of approval.
       * The full depth of the guidelines for Educational Purposes can be found in the
       * EDUCATIONAL LICENSE.md file here : 
-      * https://github.com/cmurtheepic/Mizer/blob/master/EDUCATIONAL%20LICENSE.md
+      * https://github.com/cmurtheepic/ClockTime/blob/master/EDUCATIONAL%20LICENSE.md
 
 or     
 
@@ -70,4 +70,6 @@ c) Comercial Training Purposes
       * for all parties involved. And for the Owner(s) of the Work(s)/Asset(s)/Property in
       * question to issue a legal document, stating the written consent / approval
       * of the rightful Owner(s).
+      
+-----------------------------------------------------------------------------------------------------------------------------
 The Following are Non-Permitted uses of the rightful Owner(s) Work(s)/Asset(s)/Property. Any other mean(s) that have not been determined strictly as a proper or improper use must be consulted with the Owner(s). As follows any other mean(s) of Use must be approved by the rightful Owner, and have written documentation by all party(ies) *and/or) entity(s) of written Approval and Consen in legal document formt. As well as strict guidlines of what the party(ies) (and/or) entity(s) may use the Owners Property for, or what the Entity(s) in question may do with the Propert/Work.
