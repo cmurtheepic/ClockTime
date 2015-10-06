@@ -45,3 +45,4 @@ a) Education Purposes * Such as use in Public School(s), Private School(s), or f
           * Is of origin outside of the Continental United States including Hawaii. Then it necessary to obtain
           * consent / approval from the rightful Owner(s) to use their Asset(s)/Property in accordance with the proper,
           * use guidelines as stated in the LICENSE.md file here : 
+          * https://github.com/cmurtheepic/ClockTime/blob/master/LICENSE.md
